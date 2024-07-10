@@ -1,0 +1,113 @@
+.aboutWrapper {
+    display: fle;
+    background-color: rgb(24, 43, 112);
+    height: 100vh;
+    align-items: center;
+
+}
+
+.aboutMe {
+    display: flex;
+    position: relative;
+    top: 5%;
+    height: 50vh;
+    background-color: white;
+    width: 80%;
+    margin-left: 10%;
+    border-radius: 10px;
+}
+
+.pageHeader {
+    display: block;
+    text-align: center;
+    padding-top: 10vh;
+    font-size: 5rem;
+    color: white;
+}
+
+.aboutImage {
+    display: flex;
+    width: 50%;
+    height: 100%;
+    justify-content: center;
+    align-items: center;
+}
+
+.aboutImage img {
+    height: 80%;
+    width: auto;
+}
+
+@media  screen and (max-width: 1350px) {
+    .aboutImage img {
+        width: 80%;
+        height: auto;
+    }
+}
+
+
+.textWrapper {
+    width: 50%;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}
+
+.aboutHeader {
+    font-size: 2rem;
+    margin-top: 2vh;
+    margin-bottom: 3vh;
+}
+
+.aboutBody  {
+    position: absolute;
+
+    padding: 2rem;
+    font-size: larger;
+    height: 80%;
+    overflow: hidden;
+}
+
+
+@media screen and (max-width: 1250px) {
+    .aboutMe {
+        height: 60vh;
+        display: block;
+    }
+    .aboutImage {
+        display: flex;
+        width: 100%;
+        height: 40%;
+        justify-content: center;
+        align-items: center;
+    }
+    
+    .aboutImage img {
+        height: 80%;
+        width: auto;
+    }
+        .textWrapper {
+            width: 100%;
+            max-height: 60%;
+            display: block;
+        }
+ 
+    .aboutBody {
+        height: 40%;
+        overflow: hidden;
+        font-size: medium;
+    }
+}
+
+@media  screen and (max-width: 700px) {
+    .aboutHeader {
+        width: 100%;
+    }
+
+    .aboutBody {
+        white-space: pre-line;
+        overflow: hidden;
+        font-size: small;
+        max-height: 70%
+    }
+}
