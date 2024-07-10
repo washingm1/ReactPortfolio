@@ -1,5 +1,5 @@
 import '../Styling/Section.css'
-import placeholder from '../placeholder.png'
+import placeholder from '../aboutMeImage.png'
 
 function Section() {
 
@@ -8,7 +8,7 @@ function Section() {
     <div className="pageHeader">About Me</div>
 <div className='aboutMe'>
             <div className="aboutImage">
-                <img src={placeholder} alt="arthur" />
+                <img src={placeholder} alt="profile picture" />
             </div>
             <div className="textWrapper">
             <div className="aboutHeader">Front-End Developer</div>
