@@ -1,9 +1,10 @@
 section {
-    height: 50vh;
+    height: auto;
+    background-color: rgb(255, 251, 245);
 }
 
 .skillsHeader {
-    margin-top: 2vh;
+    padding-top: 2vh;
     font-size: 3rem;
     font-weight: 800;
     text-align: center;
@@ -16,9 +17,9 @@ section {
 
 .skillWrapper {
     gap: 2vh;
+    padding: 2vh;
     display: block;
-    height: 25vh;
-    background-color: rgb(242, 242, 242);
+    background-color: rgb(200, 205, 211);
     text-align: center;
 }
 
@@ -73,3 +74,7 @@ section {
     font-size: large;
 }
 
+.links a:hover {
+    transition: 0.3s ease-in-out;
+    color: rgb(0, 55, 255);
+}

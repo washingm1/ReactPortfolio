@@ -10,7 +10,7 @@ header {
     width: 100%;
     color: var(--textColor);
     animation: animateBg 10s linear infinite;
-    background-image: linear-gradient(311deg,#1f4bb2,#193179);
+    background-color: #6e859b;
     background-size: 300% 100%;
     position: relative;
 

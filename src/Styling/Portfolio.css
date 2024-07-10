@@ -3,7 +3,8 @@
     max-width: 100vw;
     overflow: hidden;
     animation: animateBg 10s linear infinite;
-    background-image: linear-gradient(311deg,#1f4bb2,#193179);
+    /* background-image: linear-gradient(311deg,#1f4bb2,#193179); */
+    background-color: rgb(162, 166, 183);
     background-size: 300% 100%;
 }
 
@@ -34,7 +35,6 @@
 }
 
 .imgWrap img {
-
     justify-self: center;
     height: 100%;
     width: 100%;
