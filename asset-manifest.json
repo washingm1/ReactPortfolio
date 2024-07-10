@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/ReactPortfolio/static/css/main.a7c2c094.css",
+    "main.js": "/ReactPortfolio/static/js/main.2d87ae6f.js",
+    "static/media/web125.png": "/ReactPortfolio/static/media/web125.6abe1e3d4ac509b1ad8a.png",
+    "static/media/web110.png": "/ReactPortfolio/static/media/web110.506b6c6b7723b79db716.png",
+    "static/media/placeholder.png": "/ReactPortfolio/static/media/placeholder.66375302d0cd678307c9.png",
+    "static/media/budgetcalc.png": "/ReactPortfolio/static/media/budgetcalc.e21357561f62a858a9c9.png",
+    "static/media/web210.png": "/ReactPortfolio/static/media/web210.516ecf803bc5e9127c33.png",
+    "static/media/html-icon.png": "/ReactPortfolio/static/media/html-icon.ad1522b99775b918e086.png",
+    "static/media/camera.png": "/ReactPortfolio/static/media/camera.97314156ff0c004f44ec.png",
+    "static/media/wordpress.png": "/ReactPortfolio/static/media/wordpress.11ed091523e3152b651f.png",
+    "static/media/slick.svg": "/ReactPortfolio/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/ReactPortfolio/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/ReactPortfolio/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/ReactPortfolio/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/ReactPortfolio/index.html",
+    "main.a7c2c094.css.map": "/ReactPortfolio/static/css/main.a7c2c094.css.map",
+    "main.2d87ae6f.js.map": "/ReactPortfolio/static/js/main.2d87ae6f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a7c2c094.css",
+    "static/js/main.2d87ae6f.js"
+  ]
+}
