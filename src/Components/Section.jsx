@@ -1,5 +1,5 @@
 import '../Styling/Section.css'
-import placeholder from '../placeholder.png'
+import placeholder from '../assets/aboutMeImage.jpg'
 
 function Section() {
 
